@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🏫 Education  
 
 <a href="https://www.unist.ac.kr">
-<img src="https://img.shields.io/badge/B.S. Computer Engineering (2020~2024) - UNIST-001c54?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/B.S. Computer Science and Engineering (2020~2024) - UNIST-001c54?style=for-the-badge"/>  
 </a>
 <br>
 <br>
