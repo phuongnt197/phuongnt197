@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Thu+Phuong+Nguyen;Computer+Science+Student;Natural+Language+Processing;AI%2F+Deep+Learning)](https://git.io/typing-svg)
+
+### 🌱 Interest
+
+#### Software Testing and Analysis for Vehicle Control System
+
+### 🔭 Work
+
+<a href="https://mijungk.github.io/starlab/">
+<img src="https://img.shields.io/badge/ STAR LAB Research Intern @ UNIST-EADBC6?style=for-the-badge"/>  
+</a>
+
+
+### 🏫 Education  
+
+<a href="https://www.unist.ac.kr">
+<img src="https://img.shields.io/badge/B.S. Computer Engineering (2020~2024) - UNIST-001c54?style=for-the-badge"/>  
+</a>
+<br>
+<br>
+
+<a href="https://drive.google.com/file/d/1ph6_jGxaj4zf7zAEO3IMSfuAmxnPq7zb/view?usp=sharing">
+  Curriculum Vitae
+</a>
+|
+<a href="www.linkedin.com/in/phuongnt197">
+  LinkedIn
+</a>
