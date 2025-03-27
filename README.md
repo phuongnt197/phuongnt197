@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <a href="https://admg-intl.unist.ac.kr/study-at-unist/scholarships/">
 <img src="https://img.shields.io/badge/ UNIST Korean Government Scholarship Recipient -002C5F?style=for-the-badge&logo=&logoColor=white"/>  
 </a>
+
 <a href="https://admu-intl.unist.ac.kr/info/scholarships/">
 <img src="https://img.shields.io/badge/ UNIST Global Dream Scholarship Recipient -002C5F?style=for-the-badge&logo=&logoColor=white"/>  
 </a>
