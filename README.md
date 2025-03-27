@@ -17,18 +17,23 @@ Here are some ideas to get you started:
 
 ### 🌱 Interest
 
-#### Deep Learning and applications to Natural Language Processing and Computer Vision.
+#### Deep Learning and applications to Natural Language Processing and Optical Character Recognition.
 
 ### 🔭 Work
 
+<a href="https://sites.google.com/view/mvllab">
+<img src="https://img.shields.io/badge/ Interactive Multimodal Machine Learning lab Graduate Student @ UNIST (2024 ~ 2026)-EADBC6?style=for-the-badge"/>  
+</a>
+
 <a href="https://mijungk.github.io/starlab/">
-<img src="https://img.shields.io/badge/ STAR LAB Research Intern @ UNIST-EADBC6?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/ STAR LAB Research Intern @ UNIST (2023 ~ 2024)-EADBC6?style=for-the-badge"/>  
 </a>
 
 
 ### 🏫 Education  
 
 <a href="https://www.unist.ac.kr">
+  <img src="https://img.shields.io/badge/M.Sc. Computer Science and Engineering (2024~2026) - UNIST-001c54?style=for-the-badge"/>  
 <img src="https://img.shields.io/badge/B.Sc. Computer Science and Engineering and Industrial Engineering (2020~2024) - UNIST-001c54?style=for-the-badge"/>  
 </a>
 <br>
