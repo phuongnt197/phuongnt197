@@ -46,11 +46,14 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-
-<a href="https://drive.google.com/file/d/1ph6_jGxaj4zf7zAEO3IMSfuAmxnPq7zb/view?usp=sharing">
+<a href="https://phuongnt197.github.io/">
+  Personal Webpage
+</a>
+|
+<a href="https://drive.google.com/file/d/1oZJoY42kw6DGVzoBUdbnr9-fN9Bwkd6B/view?usp=sharing">
   Curriculum Vitae
 </a>
 |
-<a href="www.linkedin.com/in/phuongnt197">
+<a href="http://linkedin.com/in/phuongnt197/">
   LinkedIn
 </a>
